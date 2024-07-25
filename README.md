@@ -62,6 +62,8 @@
 <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-png-transparent.png" alt="Redux" width="40" height="40" title="Redux"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="Next.js" width="50" height="40" title="Next.js"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" alt="GSAP" width="40" height="40" title="GSAP"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="40" height="40" title="Three.js"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="40" height="40" title="Express.js"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="Npde.js" width="50" height="40" title="Node.js"/></a>
