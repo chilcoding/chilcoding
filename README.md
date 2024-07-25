@@ -33,7 +33,7 @@
 - 🤩I’m looking for a good project  
   
 
-- 📩How to reach me codingwithhemanta@gmail.com  
+- 📩How to reach me codingh49@gmail.com 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -45,11 +45,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
-<a href="https://www.facebook.com/profile.php?id=100093836979650" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coding-with-hemanta-107518035381245" height="30" width="40" title="Facebook"/></a>
+
 <a href="https://www.linkedin.com/in/hemanta-hembram-36b420249/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanta-hembram-519220217" height="30" width="40" title="LinkedIn"/></a>
-<a href="https://www.instagram.com/coding_with_hemanta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_hemanta" height="30" width="40" title="Instagram"/></a>
- <a href="https://twitter.com/hem56423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhemanta355" height="30" width="40" title="Twitter"/></a>
-<a href="https://discord.gg/svnbv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svnbvnqa" height="30" width="40" title="Discord" /></a>
+<a href="https://www.instagram.com/codingh49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_hemanta" height="30" width="40" title="Instagram"/></a>
+ <a href="https://x.com/HemantaH73773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhemanta355" height="30" width="40" title="Twitter"/></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svnbvnqa" height="30" width="40" title="Discord" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
