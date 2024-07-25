@@ -52,7 +52,7 @@
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svnbvnqa" height="30" width="40" title="Discord" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Front End </h3>
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40" title="HTML5"/></a>  
@@ -64,6 +64,9 @@
 <a href="https://react.dev/" target="_blank"><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="Next.js" width="50" height="40" title="Next.js"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" alt="GSAP" width="40" height="40" title="GSAP"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="40" height="40" title="Three.js"/></a>
+</p>
+ <h3 align="left">Backend</h3>
+ <p align="left">
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="40" height="40" title="Express.js"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" alt="Npde.js" width="50" height="40" title="Node.js"/></a>
