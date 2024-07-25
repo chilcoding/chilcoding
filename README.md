@@ -55,10 +55,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/></a>
-<a href="https://www.w3schools.com/django/" target="_blank"><img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png" alt="Django" width="40" height="40" title="Django"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40" title="HTML5"/></a>  
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/></a>  
-<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap5" width="40" height="40" title="Bootstrap5"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind CSS" width="40" height="40" title="Tailwind CSS"/></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/></a>
@@ -75,7 +73,7 @@
 
 
 <h3 align="left">Support:</h3><img src="https://giffiles.alphacoders.com/215/215919.gif" align="left" height="50" width="50" />  
-<p><a href="https://www.buymeacoffee.com/hhemanta35p" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hhemanta35p" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/codingh49" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hhemanta35p" /></a></p><br><br>
 <br/>  
 
   
