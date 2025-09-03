@@ -10,48 +10,49 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 ABOUT ME
 - 🔭 Currently working on **Full Stack Web Development**  
 - 🌱 Exploring **Artificial Intelligence**  
 - ❓ Ask me about **MERN Stack & Web Development**  
 - 🤩 Open to exciting **projects & collaborations**  
 - 📩 Reach me at **codingh49@gmail.com**  
-- ⚡ Fun fact: *I use tabs over spaces*  
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
+### 🌐 CONNECT WITH ME
+<p >
   <a href="https://www.linkedin.com/in/hemanta-hembram-04a186317/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"/>
+  </a> &nbsp;
   <a href="https://x.com/HemantaH73773" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=twitter" width="30" height="30"/>
+  </a> &nbsp;
   <a href="https://www.instagram.com/codingh49/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"/>
+  </a> &nbsp;
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="30" height="30"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Skills
-## Technical Skills
-**Languages:** Python, JavaScript (ES6+), TypeScript  
-**Frontend:** HTML5, CSS3, React.js, Next.js, Tailwind CSS, Redux Toolkit  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB  
-**DevOps / Tools:** Vercel, Docker, Git, GitHub, CI/CD, Postman  
-**AI Tools:** Gemini AI, Vapi, GitHub Copilot  
-## Technical Skills
-Problem Solving, Teamwork, Communication, Adaptability, Time Management  
+### 🛠️ SKILLS
+#### Technical Skills
+**Languages:**&nbsp;&nbsp;Python&nbsp;&nbsp;JavaScript (ES6+)&nbsp;&nbsp;TypeScript  
+**Frontend:**&nbsp;&nbsp;HTML5&nbsp;&nbsp;CSS3&nbsp;&nbsp;React.js&nbsp;&nbsp;Next.js&nbsp;&nbsp;Tailwind CSS&nbsp;&nbsp;Redux Toolkit  
+**Backend:**&nbsp;&nbsp;Node.js&nbsp;&nbsp;Express.js  
+**Databases:**&nbsp;&nbsp;MongoDB  
+**DevOps / Tools:**&nbsp;&nbsp;Vercel&nbsp;&nbsp;Docker&nbsp;&nbsp;Git&nbsp;&nbsp;GitHub&nbsp;&nbsp;CI/CD&nbsp;&nbsp;Postman  
+**AI Tools:**&nbsp;&nbsp;Gemini AI&nbsp;&nbsp;Vapi&nbsp;&nbsp;GitHub Copilot  
+
+
+#### Soft Skills
+&nbsp;&nbsp;Problem Solving&nbsp;&nbsp;Teamwork&nbsp;&nbsp;Communication&nbsp;&nbsp;Adaptability&nbsp;&nbsp;Time Management  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GITHUB STATS
 <table>
 <tr>
 <td width="50%">
@@ -69,7 +70,7 @@ Problem Solving, Teamwork, Communication, Adaptability, Time Management
 
 ---
 
-### ☕ Support
+### ☕ SUPPORT
 If you like my work, consider buying me a coffee!  
 
 <a href="https://buymeacoffee.com/codingh49" target="_blank">
