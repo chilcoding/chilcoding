@@ -39,14 +39,15 @@
 ---
 
 ### 🛠️ Skills
-
+## Technical Skills
 **Languages:** Python, JavaScript (ES6+), TypeScript  
 **Frontend:** HTML5, CSS3, React.js, Next.js, Tailwind CSS, Redux Toolkit  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB  
 **DevOps / Tools:** Vercel, Docker, Git, GitHub, CI/CD, Postman  
 **AI Tools:** Gemini AI, Vapi, GitHub Copilot  
-**Soft Skills:** Problem Solving, Teamwork, Communication, Adaptability, Time Management  
+## Technical Skills
+Problem Solving, Teamwork, Communication, Adaptability, Time Management  
 
 ---
 
